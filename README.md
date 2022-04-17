@@ -1,9 +1,10 @@
-### 大家好 / Hi there 👋
+### 大家好  👋👋👋
 
 我是一名来自中国的开发者 🎉
 - 🔭 我目前在滴滴工作，负责国际化架构相关工作，包括且不限于i18n，l10n和数据架构治理等。
 
 
+### Hi there 👋👋👋
 I'm a software developer from China. 🎉
 - 🔭 I’m currently working in did，responsible for international architecture. Including but not limited to I18N, L10N and data architecture governance.
 
