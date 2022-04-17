@@ -9,7 +9,7 @@ I'm a software developer from China. 🎉
 - 🔭 I’m currently working in did，responsible for international architecture. Including but not limited to I18N, L10N and data architecture governance.
 
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=huancui)
+![My Stats](https://github-readme-stats.vercel.app/api?username=cuihuan)
 
 <!--
 **cuihuan/cuihuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
