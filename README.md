@@ -6,7 +6,7 @@
 
 ### Hi there 👋👋👋
 I'm a software developer from China. 🎉
-- 🔭 I’m currently working in did，responsible for international architecture. Including but not limited to I18N, L10N and data architecture governance.
+- 🔭 I’m currently working in didi，responsible for international architecture. Including but not limited to I18N, L10N and data architecture governance.
 
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=cuihuan)
