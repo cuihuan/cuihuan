@@ -15,7 +15,6 @@ I'm a software developer from China. 🎉
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <img alt="cuihuan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=cuihuan&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
- <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzashakeri&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
   <br/>
 </details>
 
